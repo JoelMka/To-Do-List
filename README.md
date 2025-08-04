@@ -1,4 +1,4 @@
-# Joel's Daily Planner
+#  Daily Planner
 
 A comprehensive daily planner application designed specifically for Joel Mathew with a homely, warm interface and personalized features.
 
@@ -121,5 +121,6 @@ You can modify the workout schedule in `script.js` by editing the `workoutSchedu
 3. **Priority Levels**: Use high priority for urgent tasks
 4. **Descriptions**: Add details to events for better organization
 5. **Check Daily**: Review your schedule each morning
+
 
 Enjoy staying organized with your personalized daily planner! 🎯 
